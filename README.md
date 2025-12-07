@@ -4,7 +4,8 @@
 Za ta projekt sem se odločil, ker se učim v tem letu HTML in CSS in se mi je zdela kar zanimiva naloga.
 Projekt si lahko ogledaste v mapi → [Prijavnica](https://github.com/hazirileon/Project/tree/92007aad1de9dcb970f8ae173496fda018b51f77/Prijavnica).
 
-Za poskus uporabe spletne strani sem vam naredil GitHub Page → [prijavnica.github.io](hazirileon.github.io).
+Za poskus uporabe spletne strani sem vam naredil GitHub Page → [hazirileon.github.io](https://hazirileon.github.io/)).
 
 Postopek, kjer sem reševal nalogo in z uporabo HTML-ja [HTML.md](https://github.com/hazirileon/Project/blob/92007aad1de9dcb970f8ae173496fda018b51f77/HTML.md)😊.
+
 
