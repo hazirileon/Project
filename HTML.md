@@ -29,7 +29,7 @@
 <input type="text" id="ime" name="ime" value=""><br>
 ```
 ![image alt](https://github.com/hazirileon/Private/blob/68a072d1b2f6c5b0633bacb854368f6ba64a7366/Posnetek%20zaslona%202025-12-01%20185511.png)
-<hr>
+___________________________________________________________
 ```html
 <label for="spol">Spol:</label></td>
 <input type="radio" id="moski" name="spol" value="M">
